@@ -1,0 +1,100 @@
+[
+    {
+      "id": 1,
+      "name": "Old Durbar Black Chimney Whiskey 750ml",
+      "category": "Whiskey",
+      "price": 3500,
+      "image": "images\\old durbar.png"
+    },
+    {
+      "id": 2,
+      "name": "Jack Daniel's Old No. 7 750ml",
+      "category": "Whiskey",
+      "price": 5850,
+      "image": "images\\jd.png" 
+    },
+    {
+      "id": 11,
+      "name": "Golden Oak 750ml",
+      "category": "Whiskey",
+      "price": 1850,
+      "image": "images\\66604476509171663638037233787565871453288.png"
+    },
+    {
+      "id": 3,
+      "name": "Big Master Red Wine 750ml",
+      "category": "Wine",
+      "price": 750,
+      "image": "images\\23156200088726937132501059709713398776839668.png"
+    },
+    {
+      "id": 4,
+      "name": "Divine Wine (Red) 750ml",
+      "category": "Wine",
+      "price": 800,
+      "image": "images\\558738887147736860546432177695416418667468644.png"
+    },
+    {
+      "id": 5,
+      "name": "Tuborg Beer Can 500ml",
+      "category": "Beer",
+      "price": 280,
+      "image": "images\\tuborg.png"
+    },
+    {
+      "id": 6,
+      "name": "Gorkha Beer Bottle 650ml",
+      "category": "Beer",
+      "price": 310,
+      "image": "images\\gorkha.png"
+    },
+    {
+      "id": 12,
+      "name": "Nepal Ice Natura Beer Can 500ml",
+      "category": "Beer",
+      "price": 260,
+      "image": "images\\72590397552272494279041117405584769390508.png"
+    },
+    {
+      "id": 7,
+      "name": "Absolute Vodka 750ml",
+      "category": "Vodka",
+      "price": 4200,
+      "image": "images\\absolut.png"
+    },
+    {
+      "id": 13,
+      "name": "Ruslan Vodka 750ml",
+      "category": "Vodka",
+      "price": 1650,
+      "image": "images\ruslan.png"
+    },
+    {
+      "id": 8,
+      "name": "Khukri XXX Rum 750ml",
+      "category": "Rum",
+      "price": 1150,
+      "image": "images\\khukri.png"
+    },
+    {
+      "id": 14,
+      "name": "Old Monk Rum 750ml",
+      "category": "Rum",
+      "price": 1250,
+      "image": "images\\old monk.png"
+    },
+    {
+      "id": 9,
+      "name": "Coca-Cola Bottle 2.25L",
+      "category": "Softdrinks",
+      "price": 180,
+      "image": "images\\coca cola.png"
+    },
+    {
+      "id": 10,
+      "name": "Sprite Bottle 1.5L",
+      "category": "Softdrinks",
+      "price": 150,
+      "image": "images\\sprite.png"
+     }
+  ]
